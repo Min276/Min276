@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-- 🚀 &nbsp; I want to become a **Full-stack Developer**
+- 🌱 &nbsp; I’m currently learning ![Python](https://img.shields.io/badge/-Pyhton-05122A?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- 🚀 &nbsp; I want to become a **Full-stack Web Developer**
 - 💬 &nbsp; Ask me about **Front-end Web Development**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
 
@@ -16,9 +16,8 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
   ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 <h3>🔎&nbsp; Connect with me </h3>
 <a href="https://min276.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-min276.github.io-05122A?style=flat-square&logo=google-chrome"></a>
