@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning ![Python](https://img.shields.io/badge/-Pyhton-05122A?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- 🌱 &nbsp; I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 - 🚀 &nbsp; I want to become a **Full-stack Web Developer**
 - 💬 &nbsp; Ask me about **Front-end Web Development**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
