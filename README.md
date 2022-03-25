@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; I’m currently learning ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- 🌱 &nbsp; I’m currently learning ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) , ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)
 - 🚀 &nbsp; I want to become a **Full-stack Web Developer**
 - 💬 &nbsp; Ask me about **Front-end Web Development**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
@@ -14,6 +14,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwindcss)&nbsp;
   ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
