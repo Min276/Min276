@@ -1,17 +1,21 @@
 <h2> Hello there ! I'm Min Khant. 👋</h2>
-
+  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<img src="developer.gif" alt="coding boy gif" width="300" align='right' />
 
-- 🌱 &nbsp; I’m currently learning ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+- 🌱 &nbsp; I’m currently working as a Frontend Developer 
 - 🚀 &nbsp; I want to become a **Full-stack Web Developer**
 - 💬 &nbsp; Ask me about **Front-end Web Development**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
 
-<h3> 🌐 &nbsp;Technologies and Tools</h3>
+<h3> 🌐 &nbsp; Technologies and Tools</h3>
 
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
