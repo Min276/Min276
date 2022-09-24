@@ -1,5 +1,8 @@
-<h2> Hello there ! I'm Min Khant. 👋</h2>
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+there+!+I'm+Min+Khant.+👋;I'm+a+Frontend+Developer.+👨‍💻;I+love+coding+and+design+💕;Fullstack+Dev+is+mydream+✨)](https://git.io/typing-svg)
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Min276.Min276)
+[![Github](https://img.shields.io/github/followers/Min276?label=Follow&style=social)](https://github.com/Min276)
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <img src="developer.gif" alt="coding boy gif" width="300" align='right' />
 
@@ -30,7 +33,7 @@
 <h3>🔎&nbsp; Connect with me </h3>
 <a href="https://min276.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-min276.github.io-05122A?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/minkhantkyaw-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Min%20Khant%20Kyaw-05122A?style=flat-square&logo=linkedin"></a>
-<a href="mailto:minkhantkyaw@ttu.edu.mm"><img alt="Email" src="https://img.shields.io/badge/Email-minkhantkyaw@ttu.edu.mm-05122A?style=flat-square&logo=gmail"></a>
+<a href="mailto:minkhantkyawttu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minkhantkyawttu@gmail.com-05122A?style=flat-square&logo=gmail"></a>
 <br/>
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <a href="https://github.com/Min276">
