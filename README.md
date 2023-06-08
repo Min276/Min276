@@ -31,7 +31,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 <h3>🔎&nbsp; Connect with me </h3>
-<a href="https://min276.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-min276.github.io-05122A?style=flat-square&logo=google-chrome"></a>
+<!-- <a href="https://min276.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-min276.github.io-05122A?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/minkhantkyaw-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Min%20Khant%20Kyaw-05122A?style=flat-square&logo=linkedin"></a>
 <a href="mailto:minkhantkyawttu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minkhantkyawttu@gmail.com-05122A?style=flat-square&logo=gmail"></a>
 <br/>
