@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+there+!+I'm+Min+Khant.+👋;I'm+a+Frontend+Developer.+👨‍💻;I+love+coding+and+design+💕;Fullstack+Dev+is+mydream+✨)](https://git.io/typing-svg)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Min276.Min276)
+![Profile views](https://komarev.com/ghpvc/?username=Min276)
 [![Github](https://img.shields.io/github/followers/Min276?label=Follow&style=social)](https://github.com/Min276)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
