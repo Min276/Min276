@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <img src="developer.gif" alt="coding boy gif" width="300" align='right' />
 
-- 🌱 &nbsp; I’m currently working as a Frontend Developer 
+- 🌱 &nbsp; I’m currently working as a **Remote Frontend Developer**
 - 🚀 &nbsp; I want to become a **Full-stack Web Developer**
 - 💬 &nbsp; Ask me about **Front-end Web Development**
 - ⚡ &nbsp; Fun fact: I'm a lazybone. xD
@@ -22,6 +22,7 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=Php)&nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
   ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwindcss)&nbsp;
@@ -34,7 +35,7 @@
 <h3>🔎&nbsp; Connect with me </h3>
 <!-- <a href="https://min276.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-min276.github.io-05122A?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/minkhantkyaw-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Min%20Khant%20Kyaw-05122A?style=flat-square&logo=linkedin"></a>
-<a href="mailto:minkhantkyawttu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minkhantkyawttu@gmail.com-05122A?style=flat-square&logo=gmail"></a>
+<a href="mailto:minkhantkyawdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-minkhantkyawdev@gmail.com-05122A?style=flat-square&logo=gmail"></a>
 <br/>
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <a href="https://github.com/Min276">
